@@ -6,7 +6,7 @@
 }
 .animated-title {
     
-    color: white;
+    color: #1C5DBB;
     font-size: 1000px;
     margin: 0;
     width: 100%;
@@ -64,7 +64,7 @@
   }
 	100% {
     transform: translateY(0);
-    color: white;
+    color: #1C5DBB;
     font-size: 60px;
     opacity: 1;
 	}

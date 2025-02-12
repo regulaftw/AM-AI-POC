@@ -122,7 +122,7 @@ const TeacherAI = () => {
           <ErrorPopup showError={error}/>
             {!submitted && (
                 <div className="form-container">
-                    <h1>AI Assignment Grader</h1>
+                    <h1 style={{ color: "#1C5DBB" }}>AI Assignment Grader</h1>
                     <form onSubmit={handleSendRequest} className="assignment-form">
                         <div className="box-outer">
                             <div className="main_box">

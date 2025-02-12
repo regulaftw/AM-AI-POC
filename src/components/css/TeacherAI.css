@@ -10,6 +10,9 @@
   overflow: hidden;
 }
 
+.h1{
+  color: #1C5DBB;
+}
 
 .form-container {
   display: flex;
